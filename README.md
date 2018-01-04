@@ -1,13 +1,13 @@
-# nterview Questions
+# Interview Questions
 
 ## 1.What is python?
 Python is a general purpose programming language
 
 ## 2.In what areas can we use the Python Language?
-.Web Development
-.Scientific Computing
-.Game Development
-.Desktop Applications
+Web Development,
+Scientific Computing,
+Game Development,
+Desktop Applications
 
 ## 3.What is the disadvantage of using Python compared to other compiled languages like Java?
 
@@ -31,11 +31,11 @@ Tuples are fixed size in nature whereas lists are dynamic
 Is a collection of distinct objects
 
 ## 9.Name the various data types in Python.
-.Integers
-.Strings
-.Boolean
-.Float
-.Set
+Integers,
+Strings
+Boolean,
+Float,
+Set
 
 ## 10.What is a decorator?
 A decorator is a function that takes another function and extends the behavior of the latter function without explicitly modifying it.
